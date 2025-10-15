@@ -1,10 +1,6 @@
 # STARTER-jpa03
 
-```
-Running at: <https://ucsb-cs156-f25.github.io/jpa03-laurenc06/>
-```
-
-Running at: <https://starter-jpa03.dokku-00.cs.ucsb.edu>
+Running at: <https://jpa03-laurenc06.dokku-09.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
 
